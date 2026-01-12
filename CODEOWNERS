@@ -1,0 +1,5 @@
+# CODEOWNERS for multi-agent-research-synthesis
+# All changes require review from @zebrr
+
+# Global owner - controls everything
+* @zebrr
